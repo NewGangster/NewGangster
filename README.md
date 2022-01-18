@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->https://t.me/Gangster_Of_Telegram
-https://t.me/addstickers/animated5049500342_by_LyciRobot
+
 
