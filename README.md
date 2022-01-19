@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+GANG+STER)](https://t.me/GangstersOff) 
+
+
 <!--
 **NewGangster/NewGangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
