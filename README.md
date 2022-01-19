@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/GangstersOff)&nbsp;
 
 
-| <img width="42%" align="right" alt="Github" src="https://te.legra.ph/file/827fb166ba2a17408af00.jpg" />
+|<img width="42%" align="right" alt="Github" src="https://te.legra.ph/file/827fb166ba2a17408af00.jpg" />
 
 
 
