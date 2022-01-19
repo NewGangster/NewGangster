@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt" />
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
 
 
 ### SEE THIS 💚💙❤️
@@ -38,4 +36,5 @@ Here are some ideas to get you started:
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/GangstersOff)&nbsp;
 
 <img width="42%" align="right" alt="Github" src="https://te.legra.ph/file/827fb166ba2a17408af00.jpg" />
+
 
