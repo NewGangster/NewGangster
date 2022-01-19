@@ -6,7 +6,6 @@
 <!--
 **NewGangster/NewGangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/39adbd9ed181ec4af6347.jpg" />
 
 Here are some ideas to get you started:
 
@@ -33,4 +32,7 @@ Here are some ideas to get you started:
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                   |
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/GangstersOff)&nbsp;
+
+<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/39adbd9ed181ec4af6347.jpg" />
+
 
