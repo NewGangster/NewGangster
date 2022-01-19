@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi GANGSTER there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+GANG+STER)](https://t.me/GangstersOff) 
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##SEE THIS✨
+### SEE THIS✨
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NewGangster)
 
