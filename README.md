@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Jins+Joseph)](https://t.me/GangstersOff) 
 
 <!--
+
 ## Reach out to me 👻
 
 |  <a href="https://www.instagram.com/tz_.ash"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
