@@ -1,4 +1,4 @@
-### Hi GANG there ✨🌸
+### Hi GANG there 🧚
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Jins+Joseph)](https://t.me/GangstersOff) 
 
 <!--
