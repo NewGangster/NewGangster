@@ -1,7 +1,7 @@
-### Hi there ✨🌸
+### Hi GANG there ✨🌸
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Jins+Joseph)](https://t.me/kidhub) 
 
 <!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6B5DF7&size=75&width=1050&height=200&lines=Hey+I'm+Jins+Joseph)](https://t.me/kidhub) 
 
 **NewGangster/NewGangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
