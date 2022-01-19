@@ -28,7 +28,7 @@ SEE THIS✨
 &nbsp;
 ## Reach out to me 🧚
 
-|  <a href="https://www.instagram.com/tz_.ash"><img src="https://telegra.ph/file/74806217c0bb7cfa52971.jpg" width="150px" height="150px" /></a> |
+|  <a href="https://www.instagram.com/tz_.ash"><img src="https://te.legra.ph/file/b30592072ecec1ea5d5c8.jpg" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                   |
 |[![Telegram](https://img.shields.io/badge/Telegram-003245?style=flat&labelColor=224242&logoColor=white&for-the-badge&logo=telegram)](https://t.me/kidhub)&nbsp;                                       
