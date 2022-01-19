@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 💃🏻🕺🏼
+
+- ![Profile views](https://gpvc.arturio.dev/tz-ash)
+
+- ![tz-ash's github stats](https://github-readme-stats.vercel.app/api?username=tz-ash&show_icons=true&theme=cobalt&count_private=true)
+
+- [![GitHub followers](https://img.shields.io/github/followers/tz-ash.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/tz-ash?tab=followers)
+
 ### SEE THIS 💚💙❤️
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NewGangster)
