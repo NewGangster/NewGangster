@@ -4,6 +4,16 @@
 
 
 <!--
+### SEE THIS 💚💙❤️
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NewGangster)
+
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=blue)]()
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=blue)]()
+
+&nbsp;
+
 **NewGangster/NewGangster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -20,15 +30,7 @@ Here are some ideas to get you started:
 --->
 
 
-### SEE THIS 💚💙❤️
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/NewGangster)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=blue)]()
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=blue)]()
-
-&nbsp;
 
 
 |  <a href="https://www.instagram.com/tz_.ash"><img src="https://te.legra.ph/file/b30592072ecec1ea5d5c8.jpg" width="150px" height="150px" /></a> |
