@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ## 🎵 Now playing
 <a href="https://spotify.com/" target="_blank"><img src="https://novatorem.vercel.app/api/spotify" alt="Spotify"></a>
 ## 📊 Stats
-<a href="https://github.com/AnjanaMadu"><img src="https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg" alt="Metrics"></a>
+<a href="https://github.com/NewGangster"><img src="https://github.com/AnjanaMadu/AnjanaMadu/raw/main/github-metrics.svg" alt="Metrics"></a>
